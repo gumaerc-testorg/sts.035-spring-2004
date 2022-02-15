@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Reading Response Paper
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/sts-035-the-history-of-computing-spring-2004/5c19c54d09ccae514ce87b7a88cb562f_week10.pdf
+file: /media/courses/sts-035-the-history-of-computing-spring-2004/5c19c54d09ccae514ce87b7a88cb562f_week10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: week10.pdf
 uid: 5c19c54d-09cc-ae51-4ce8-7b7a88cb562f
