@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8e836459-d1cd-f190-d0c4-1a7b25809ceb
 resourcetype: Document
 title: 11antoinne.pdf
 uid: ccc8bc05-842f-aa12-c53e-48154708d7c4

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8e836459-d1cd-f190-d0c4-1a7b25809ceb
 resourcetype: Document
 title: 8anthony.pdf
 uid: 2db7e99a-31da-86c1-2ee8-034ac6250cc0

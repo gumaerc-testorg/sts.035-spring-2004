@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8e836459-d1cd-f190-d0c4-1a7b25809ceb
 resourcetype: Document
 title: 11patrick.pdf
 uid: 68e8f310-50d5-179f-5f8d-ea090d9ae987
