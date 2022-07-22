@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 8e836459-d1cd-f190-d0c4-1a7b25809ceb
 ---
@@ -54,10 +58,10 @@ STUDENT SAMPLES
 Issues in the History of Computing
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/week2))
+({{% resource_link 5c658d72-e581-2ac1-ea75-fb97091ea34f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Daniel Roy ([PDF]({{< baseurl >}}/resources/2dan))
+Daniel Roy ({{% resource_link eac0013f-b3c9-5959-3e7c-48f6000fae57 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,11 +73,11 @@ Daniel Roy ([PDF]({{< baseurl >}}/resources/2dan))
 Computers in Nuclear Physics: ENIAC and the Hydrogen Bomb
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/week3))
+({{% resource_link 935d6e28-b9ef-2bbd-037b-a4f3da3d4f8b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Anthony Grue ([PDF]({{< baseurl >}}/resources/3anthony))  
-Steven Stern ([PDF]({{< baseurl >}}/resources/3steve)) (Courtesy of Steven Stern. Used with permission.)
+Anthony Grue ({{% resource_link d68753db-d9ad-4d47-0aff-c33751fcd8e4 "PDF" %}})  
+Steven Stern ({{% resource_link 32c1105d-33f1-3edf-13be-da0231855e19 "PDF" %}}) (Courtesy of Steven Stern. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,11 +89,11 @@ Steven Stern ([PDF]({{< baseurl >}}/resources/3steve)) (Courtesy of Steven Stern
 Computers in Meteorology: Simulating the World
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/week4))
+({{% resource_link 169eebdd-54d2-0633-20de-67d14d954aa9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Jason Ruchelsman ([PDF]({{< baseurl >}}/resources/4jason)) (Courtesy of Jason Ruchelsman. Used with permission.)  
-Katherine A. Franco ([PDF]({{< baseurl >}}/resources/4kathy)) (Courtesy of Katherine Franco. Used with permission.)
+Jason Ruchelsman ({{% resource_link a4e8ef60-117a-73ec-a9a9-7b405399a4ea "PDF" %}}) (Courtesy of Jason Ruchelsman. Used with permission.)  
+Katherine A. Franco ({{% resource_link a064678b-611f-ac69-1c52-5b8711a8c988 "PDF" %}}) (Courtesy of Katherine Franco. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,11 +105,11 @@ Katherine A. Franco ([PDF]({{< baseurl >}}/resources/4kathy)) (Courtesy of Kathe
 Computers in Mathematics: The Logic Theorist and the Automation of Proof
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/week5))
+({{% resource_link 6b6aee9b-70f9-1aeb-27d0-066c6e2fc24e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Joshua Tauber ([PDF]({{< baseurl >}}/resources/5josh1))  
-Patrick Griffin ([PDF]({{< baseurl >}}/resources/5patrick)) (Courtesy of Patrick Griffin. Used with permission.)
+Joshua Tauber ({{% resource_link 736daa9e-6cf2-b9a0-970d-357f863abb9e "PDF" %}})  
+Patrick Griffin ({{% resource_link 3920946e-939c-56af-6c4d-45beb0ba8cce "PDF" %}}) (Courtesy of Patrick Griffin. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,11 +121,11 @@ Patrick Griffin ([PDF]({{< baseurl >}}/resources/5patrick)) (Courtesy of Patric
 Computers in Cognitive Psychology: GPS and Psychological Theory
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/week6))
+({{% resource_link 9cca3a14-b12b-3f0f-1a67-5cad0da2ed73 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Aaron Bell ([PDF]({{< baseurl >}}/resources/6aaron1)) (Courtesy of Aaron Bell. Used with permission.)  
-Steven Stern ([PDF]({{< baseurl >}}/resources/6steve)) (Courtesy of Steven Stern. Used with permission.)
+Aaron Bell ({{% resource_link 888b801f-ea68-ba42-a335-db117b93bc13 "PDF" %}}) (Courtesy of Aaron Bell. Used with permission.)  
+Steven Stern ({{% resource_link c6730af5-d7e3-0d8e-1054-e773e5454ad6 "PDF" %}}) (Courtesy of Steven Stern. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -169,11 +173,11 @@ STUDENT SAMPLES
 Computers in Biochemistry: DENDRAL and Knowledge Engineering
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/week7))
+({{% resource_link 639cf500-e86c-b4c9-52fb-6dd6fdab759f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Aaron Bell ([PDF]({{< baseurl >}}/resources/7aaron)) (Courtesy of Aaron Bell. Used with permission.)  
-Jason Ruchelsman ([PDF]({{< baseurl >}}/resources/7jason)) (Courtesy of Jason Ruchelsman. Used with permission.)
+Aaron Bell ({{% resource_link 53b46f02-16a5-67ac-446b-3278dd721b69 "PDF" %}}) (Courtesy of Aaron Bell. Used with permission.)  
+Jason Ruchelsman ({{% resource_link 6593a6de-bd1c-d853-7f53-5b8b5d520ca1 "PDF" %}}) (Courtesy of Jason Ruchelsman. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -185,11 +189,11 @@ Jason Ruchelsman ([PDF]({{< baseurl >}}/resources/7jason)) (Courtesy of Jason Ru
 Computers in Aerospace: The Apollo Guidance Computer
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/week8))
+({{% resource_link 8b9b9e43-2516-3ced-52bd-0badab608e08 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Anthony Grue ([PDF]({{< baseurl >}}/resources/8anthony))  
-Patrick Griffin ([PDF]({{< baseurl >}}/resources/8patrick)) (Courtesy of Patrick Griffin. Used with permission.)
+Anthony Grue ({{% resource_link 2db7e99a-31da-86c1-2ee8-034ac6250cc0 "PDF" %}})  
+Patrick Griffin ({{% resource_link ac1fc998-ad77-7a07-147b-b637b093707f "PDF" %}}) (Courtesy of Patrick Griffin. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -201,11 +205,11 @@ Patrick Griffin ([PDF]({{< baseurl >}}/resources/8patrick)) (Courtesy of Patric
 Computers in Medicine: MYCIN and the Formalization of Expertise
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/week10))
+({{% resource_link 5c19c54d-09cc-ae51-4ce8-7b7a88cb562f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Aaron Bell ([PDF]({{< baseurl >}}/resources/10aaron)) (Courtesy of Aaron Bell. Used with permission.)  
-Daniel Roy ([PDF]({{< baseurl >}}/resources/10dan))
+Aaron Bell ({{% resource_link 4a8a68df-684f-d214-40d5-b8797a552477 "PDF" %}}) (Courtesy of Aaron Bell. Used with permission.)  
+Daniel Roy ({{% resource_link 0aa31dfe-0dc9-3c41-d447-975599f13951 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -217,11 +221,11 @@ Daniel Roy ([PDF]({{< baseurl >}}/resources/10dan))
 Supercomputing at Home: A Social Experiment in Distributed Computing
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/week11))
+({{% resource_link 711c1ac8-8ccf-c60f-d81a-3dd5f13313cd "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Antoinne Machal-Cajigas ([PDF]({{< baseurl >}}/resources/11antoinne))  
-Patrick Griffin ([PDF]({{< baseurl >}}/resources/11patrick)) (Courtesy of Patrick Griffin. Used with permission.)
+Antoinne Machal-Cajigas ({{% resource_link ccc8bc05-842f-aa12-c53e-48154708d7c4 "PDF" %}})  
+Patrick Griffin ({{% resource_link 68e8f310-50d5-179f-5f8d-ea090d9ae987 "PDF" %}}) (Courtesy of Patrick Griffin. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -233,11 +237,11 @@ Patrick Griffin ([PDF]({{< baseurl >}}/resources/11patrick)) (Courtesy of Patri
 Computers in Linguistics: Lost in Machine Translation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/week12))
+({{% resource_link 51d34894-5faf-84cf-d40f-93a6951ccda8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Aaron Bell ([PDF]({{< baseurl >}}/resources/12aaron)) (Courtesy of Aaron Bell. Used with permission.)  
-Steven Stern ([PDF]({{< baseurl >}}/resources/12steve)) (Courtesy of Steven Stern. Used with permission.)
+Aaron Bell ({{% resource_link 6d4ecdfa-8799-f61c-df3e-9b3468de89c2 "PDF" %}}) (Courtesy of Aaron Bell. Used with permission.)  
+Steven Stern ({{% resource_link abc074f4-4786-c893-d20c-306f0b4de429 "PDF" %}}) (Courtesy of Steven Stern. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -249,11 +253,11 @@ Steven Stern ([PDF]({{< baseurl >}}/resources/12steve)) (Courtesy of Steven Ster
 Computers in the Humanities: Hype, Text, and Hypertext
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/week13))
+({{% resource_link 709f9d7b-a3fd-3175-996f-a1bafbbb0375 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Aaron Bell ([PDF]({{< baseurl >}}/resources/13aaron)) (Courtesy of Aaron Bell. Used with permission.)  
-Patrick Griffin ([PDF]({{< baseurl >}}/resources/13patrick)) (Courtesy of Patrick Griffin. Used with permission.)
+Aaron Bell ({{% resource_link 3bc109d5-3347-a40c-ee92-3b5a9ba129f0 "PDF" %}}) (Courtesy of Aaron Bell. Used with permission.)  
+Patrick Griffin ({{% resource_link b8d7b531-bab4-5ad6-b8ce-f0d52e7a6442 "PDF" %}}) (Courtesy of Patrick Griffin. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -277,4 +281,4 @@ Write a 10-15 page paper (double-spaced, 1.25" margins, 12 pt font). You may cho
 
 ### Sample Final Paper
 
-Anthony Ronald Grue ([PDF]({{< baseurl >}}/resources/anthony_final))
+Anthony Ronald Grue ({{% resource_link e7be11fd-fff1-e2b3-2872-76d748a34bef "PDF" %}})
