@@ -5,6 +5,7 @@ file: /courses/sts-035-the-history-of-computing-spring-2004/639cf500e86cb4c952fb
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: week7.pdf
 uid: 639cf500-e86c-b4c9-52fb-6dd6fdab759f
 ---
 Reading Response Paper
-

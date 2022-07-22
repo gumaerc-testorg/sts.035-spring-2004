@@ -5,6 +5,7 @@ file: /courses/sts-035-the-history-of-computing-spring-2004/6593a6debd1cd8537f53
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 7jason.pdf
 uid: 6593a6de-bd1c-d853-7f53-5b8b5d520ca1
 ---
 Expert Knowledge, by Jason Ruchelsman
-

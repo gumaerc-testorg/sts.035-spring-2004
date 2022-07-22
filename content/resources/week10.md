@@ -5,6 +5,7 @@ file: /courses/sts-035-the-history-of-computing-spring-2004/5c19c54d09ccae514ce8
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: week10.pdf
 uid: 5c19c54d-09cc-ae51-4ce8-7b7a88cb562f
 ---
 Reading Response Paper
-

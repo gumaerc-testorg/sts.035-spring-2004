@@ -5,6 +5,7 @@ file: /courses/sts-035-the-history-of-computing-spring-2004/6d4ecdfa8799f61cdf3e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 12aaron.pdf
 uid: 6d4ecdfa-8799-f61c-df3e-9b3468de89c2
 ---
 Week 12 Reading Response, by Aaron Bell
-

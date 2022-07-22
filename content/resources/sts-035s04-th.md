@@ -11,10 +11,10 @@ image_metadata:
   image-alt: A strange collage of a doctor, a human brain, a stethoscope, a old reel-to-reel
     computer with a paper tape output coming from his neck.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: sts-035s04-th.jpg
 uid: 397e97a4-43c3-491f-b6f3-dbcb76cea2b5
 ---
 New image Upload
-

@@ -5,6 +5,7 @@ file: /courses/sts-035-the-history-of-computing-spring-2004/68e8f31050d5179f5f8d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 11patrick.pdf
 uid: 68e8f310-50d5-179f-5f8d-ea090d9ae987
 ---
 Reading Response, Week 11, by Patrick Griffin
-
