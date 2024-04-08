@@ -39,7 +39,7 @@ Course Overview
 
 ### Viewing
 
-"[2001: A Space Odyssey](http://www.imdb.com/title/tt0062622/)" (1968). Directed and produced by Stanley Kubrick (excerpt).
+"{{% resource_link "72136d84-3290-45af-aa98-09e4ce607fd2" "2001: A Space Odyssey" %}}" (1968). Directed and produced by Stanley Kubrick (excerpt).
 
 
 {{< tdclose >}}
@@ -179,7 +179,7 @@ Lindsay, Robert K., Bruce G. Buchanan, and Edward A. Feigenbaum. "DENDRAL: A Cas
 
 Lederberg, Joshua. "Afterword: The Anti-Expert System — Thirteen Hypotheses an AI Program Should Have Seen Through." In _Artificial Intelligence and Molecular Biology._ Edited by Lawrence Hunter. Cambridge, MA: MIT Press, 1993, pp. 459-463. ISBN: 9780262581158.
 
-Browse a collection of documents on [DENDRAL](http://hrst.mit.edu/hrs/bioinformatics/public/PrimarySite.html).
+Browse a collection of documents on {{% resource_link "ea935ee0-9f86-49f6-b988-9af0ed54b5f3" "DENDRAL" %}}.
 
 ### Viewing
 
@@ -203,9 +203,9 @@ Ceruzzi, Paul E. Chapter 6, "Minuteman, Apollo, and the Chip", chapter 8, "Advan
 
 Hall, Eldon C. "From the Farm to Pioneering with Digital Control Computers: An Autobiography." _IEEE Annals of the_ _History of Computing_ 22 (April-June 2000): 22-31.
 
-Hoag, David G. "[The History of Apollo On-Board Guidance, Navigation, and Control](http://hrst.mit.edu/hrs/apollo/public/archive/1711.pdf)." The Charles Stark Draper Laboratory, P-357, September 1976, pp. 28.
+Hoag, David G. "{{% resource_link "11ba63a8-5da5-4a6e-9464-661bdeaeb52a" "The History of Apollo On-Board Guidance, Navigation, and Control" %}}." The Charles Stark Draper Laboratory, P-357, September 1976, pp. 28.
 
-Browse a collection of documents on the [Apollo Guidance Computer](http://hrst.mit.edu/hrs/apollo/public/).
+Browse a collection of documents on the {{% resource_link "3bd77cbd-f442-40d7-93ce-276e6ec44a5d" "Apollo Guidance Computer" %}}.
 
 
 {{< tdclose >}}
@@ -221,7 +221,7 @@ Computers in the Laboratory: The LINC Between the Designer and the User
 {{< tdopen >}}
 
 
-Rosenfeld, Samuel A. "[Laboratory Instrument Computer (LINC): The Genesis of a Technological Revolution.](http://history.nih.gov/exhibits/linc/) " Seminar in Celebration of the Twentieth Anniversary of the LINC Computer, November 30, 1983.
+Rosenfeld, Samuel A. "{{% resource_link "e81d5aee-cb50-45d7-aa0b-84b1f6ea1d44" "Laboratory Instrument Computer (LINC): The Genesis of a Technological Revolution." %}} " Seminar in Celebration of the Twentieth Anniversary of the LINC Computer, November 30, 1983.
 
 Clark, Wesley. "The LINC was Early and Small." In _Proceedings of ACM Conference on the History of Medical Informatics._ New York, NY: ACM, 1987, pp. 51-73. ISBN: 0897912489.
 
@@ -231,7 +231,7 @@ Cox, Jerome R. "Recollections on the Processing of Biomedical Signals." In _Proc
 
 Guest lecture by Joseph A. November (Princeton University).
 
-Visit to the [MIT Museum](http://web.mit.edu/museum/).
+Visit to the {{% resource_link "ccc3167b-c658-4031-b66e-7b5ac13685a3" "MIT Museum" %}}.
 
 
 {{< tdclose >}}
@@ -253,7 +253,7 @@ Forsythe, Diana E. "Blaming the User in Medical Informatics: The Cultural Nature
 
 Duda, Richard O., and Edward H. Shortliffe. "Expert Systems Research." _Science_ 220, no. 4594 (April 15, 1983): 261-268.
 
-Browse a collection of documents on [MYCIN](http://hrst.mit.edu/hrs/bioinformatics/public/PrimarySite.html).
+Browse a collection of documents on {{% resource_link "ea935ee0-9f86-49f6-b988-9af0ed54b5f3" "MYCIN" %}}.
 
 ### Viewing
 
@@ -281,15 +281,15 @@ Johnson, George. "Supercomputing '@Home' Is Paying Off." _The New York Times_ (
 
 ### Web Sites
 
-[Folding@home](https://foldingathome.org/)
+{{% resource_link "e8449ffd-7504-4ae6-9b16-c95c3627bc5e" "Folding@home" %}}
 
-[Genome@home](http://www.genomenewsnetwork.org/articles/07_02/genome_home.shtml)
+{{% resource_link "5a1196c5-5a00-4a06-bb28-4f070345636e" "Genome@home" %}}
 
-[SETI@home](http://setiathome.berkeley.edu/)
+{{% resource_link "9b1527e2-a7b0-4e64-a3f7-efb3e6d027b4" "SETI@home" %}}
 
 ### Viewing
 
-"[Bill Gates](http://www.imdb.com/title/tt0397858/)" (1996). A&E's Biography.
+"{{% resource_link "bc30af01-e25a-480b-a825-e0c61e8d7499" "Bill Gates" %}}" (1996). A&E's Biography.
 
 
 {{< tdclose >}}
@@ -305,7 +305,7 @@ Computers in Linguistics: Lost in Machine Translation
 {{< tdopen >}}
 
 
-Hutchins, W. John. Chapter 2, "Precursors and Pioneers"; chapter 8, "Expectations and Criticisms"; chapter 19, "Present Developments and Some Future Prospects." In [_Machine Translation: Past, Present, Future_.](http://www.hutchinsweb.me.uk/PPF-TOC.htm) Chichester, UK: Ellis Horwood, 1986. ISBN: 9780853127888.
+Hutchins, W. John. Chapter 2, "Precursors and Pioneers"; chapter 8, "Expectations and Criticisms"; chapter 19, "Present Developments and Some Future Prospects." In {{% resource_link "5e299cf7-af35-4f0c-a796-e4b23564f253" "_Machine Translation: Past, Present, Future_." %}} Chichester, UK: Ellis Horwood, 1986. ISBN: 9780853127888.
 
 Weizenbaum, Joseph. "The Computer and Natural Language." Chap. 7 in _Computer Power and Human Reason._ New York, NY: Penguin Books, 1984, pp. 182-201. ISBN: 9780140225358.
 
@@ -313,13 +313,13 @@ Erard, Michael. "Translation in the Age of Terror." _Technology Review_ (March 2
 
 ### Web Sites
 
-[Free online translation](http://freetranslation.imtranslator.com/) (compare different translation programs)
+{{% resource_link "29b11eb9-2b69-4d2a-be3e-3e708038903b" "Free online translation" %}} (compare different translation programs)
 
-[ELIZA emulator](http://www-ai.ijs.si/eliza/eliza.html)
+{{% resource_link "19eeb7f6-3427-4060-8278-47f11cd6d548" "ELIZA emulator" %}}
 
 ### Viewing
 
-"[Hackers](http://www.imdb.com/title/tt0278472/)" (2001). Produced and directed by Neil Docherty.
+"{{% resource_link "8fb63b2e-3a53-480b-8c3e-5cc1cb971b0a" "Hackers" %}}" (2001). Produced and directed by Neil Docherty.
 
 
 {{< tdclose >}}
@@ -343,15 +343,15 @@ Raskin, Jef. "The Hype in Hypertext: A Critique." _Proceeding of the ACM Confere
 
 Ruhleder, Karen. "Reconstructing Artifacts, Reconstructing Work: From Textual Edition to On-Line Databank." _Science,_ _Technology, and Human Values_ 20, no. 1 (Winter 1995): 39-64.
 
-Crane, Gregory, et al. "[The Symbiosis Between Content and Technology in the Perseus Digital Library.](http://www.citeulike.org/user/GregCrane/article/2308042) " _Culture_ _Interactive_, no. 2 (October 2000).
+Crane, Gregory, et al. "{{% resource_link "f9721aa1-93db-4ef5-b278-41cc453a385c" "The Symbiosis Between Content and Technology in the Perseus Digital Library." %}} " _Culture_ _Interactive_, no. 2 (October 2000).
 
 ### Web Site
 
-[Perseus Digital Library](http://www.perseus.tufts.edu/)
+{{% resource_link "7be31e05-8dba-4837-95fa-54522aaa6067" "Perseus Digital Library" %}}
 
 ### Viewing
 
-"[Desk Set](http://www.imdb.com/title/tt0050307/)" (1957). Directed by Walter Lang (excerpt).
+"{{% resource_link "3d9e6d3a-8cb9-41b8-a2ab-44cb24840b66" "Desk Set" %}}" (1957). Directed by Walter Lang (excerpt).
 
 
 {{< tdclose >}}
