@@ -2,11 +2,13 @@
 content_type: resource
 description: New image Upload
 file: /courses/sts-035-the-history-of-computing-spring-2004/397e97a443c3491fb6f3dbcb76cea2b5_sts-035s04-th.jpg
+file_size: 10260
 file_type: image/jpeg
 image_metadata:
   caption: "U.S. Department of Health, Education, and Welfare, The Seeds of Artificial\
     \ Intelligence: SUMEX-AIM (Washington: Government Printing Office, 1980), p. 6.\
-    \ (Image courtesy of the\_[U.S. Department of Health, Education, and Welfare](http://www.hhs.gov/).)"
+    \ (Image courtesy of the\_{{% resource_link \"c691fd0d-5405-49e4-99af-d4d82354006f\"\
+    \ \"U.S. Department of Health, Education, and Welfare\" %}}.)"
   credit: ''
   image-alt: A strange collage of a doctor, a human brain, a stethoscope, a old reel-to-reel
     computer with a paper tape output coming from his neck.
