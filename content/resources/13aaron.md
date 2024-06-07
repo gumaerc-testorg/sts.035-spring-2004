@@ -2,6 +2,7 @@
 content_type: resource
 description: Week 13 Response, by Aaron Bell
 file: /courses/sts-035-the-history-of-computing-spring-2004/3bc109d53347a40cee923b5a9ba129f0_13aaron.pdf
+file_size: 21599
 file_type: application/pdf
 learning_resource_types:
 - Assignments

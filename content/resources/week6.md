@@ -2,6 +2,7 @@
 content_type: resource
 description: Reading Response Paper
 file: /courses/sts-035-the-history-of-computing-spring-2004/9cca3a14b12b3f0f1a675cad0da2ed73_week6.pdf
+file_size: 9113
 file_type: application/pdf
 learning_resource_types:
 - Assignments

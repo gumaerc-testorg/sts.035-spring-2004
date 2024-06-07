@@ -2,6 +2,7 @@
 content_type: resource
 description: Week 6 Reading Response, by Aaron Bell
 file: /courses/sts-035-the-history-of-computing-spring-2004/888b801fea68ba42a335db117b93bc13_6aaron1.pdf
+file_size: 15746
 file_type: application/pdf
 learning_resource_types:
 - Assignments
