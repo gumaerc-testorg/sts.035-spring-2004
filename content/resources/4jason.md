@@ -2,6 +2,7 @@
 content_type: resource
 description: Week 4 Response Paper, by Jason Ruchelsman
 file: /courses/sts-035-the-history-of-computing-spring-2004/a4e8ef60117a73eca9a97b405399a4ea_4jason.pdf
+file_size: 11686
 file_type: application/pdf
 learning_resource_types:
 - Assignments

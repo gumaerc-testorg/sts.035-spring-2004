@@ -2,6 +2,7 @@
 content_type: resource
 description: Expert Knowledge, by Jason Ruchelsman
 file: /courses/sts-035-the-history-of-computing-spring-2004/6593a6debd1cd8537f535b8b5d520ca1_7jason.pdf
+file_size: 13220
 file_type: application/pdf
 learning_resource_types:
 - Assignments

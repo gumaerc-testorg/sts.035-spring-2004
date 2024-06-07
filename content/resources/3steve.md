@@ -2,6 +2,7 @@
 content_type: resource
 description: Reading Response, Week 3, by Steven Stern
 file: /courses/sts-035-the-history-of-computing-spring-2004/32c1105d33f13edf13beda0231855e19_3steve.pdf
+file_size: 47322
 file_type: application/pdf
 learning_resource_types:
 - Assignments
