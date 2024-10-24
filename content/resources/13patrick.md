@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reading Response, Week 13, by Patrick Griffin
-file: /courses/sts-035-the-history-of-computing-spring-2004/b8d7b531bab45ad6b8cef0d52e7a6442_13patrick.pdf
+file: /ol-ocw-studio-app/courses/sts-035-the-history-of-computing-spring-2004/b8d7b531bab45ad6b8cef0d52e7a6442_13patrick.pdf
 file_size: 29870
 file_type: application/pdf
 learning_resource_types:
