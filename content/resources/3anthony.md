@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Week 3 - Response
-file: /courses/sts-035-the-history-of-computing-spring-2004/d68753dbd9ad4d470affc33751fcd8e4_3anthony.pdf
+file: /ol-ocw-studio-app/courses/sts-035-the-history-of-computing-spring-2004/d68753dbd9ad4d470affc33751fcd8e4_3anthony.pdf
 file_size: 54767
 file_type: application/pdf
 learning_resource_types:
