@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Week 7 Reading Response, by Aaron Bell
-file: /courses/sts-035-the-history-of-computing-spring-2004/53b46f0216a567ac446b3278dd721b69_7aaron.pdf
+file: /ol-ocw-studio-app/courses/sts-035-the-history-of-computing-spring-2004/53b46f0216a567ac446b3278dd721b69_7aaron.pdf
 file_size: 20028
 file_type: application/pdf
 learning_resource_types:

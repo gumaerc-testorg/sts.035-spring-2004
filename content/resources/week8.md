@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reading Response Paper
-file: /courses/sts-035-the-history-of-computing-spring-2004/8b9b9e4325163ced52bd0badab608e08_week8.pdf
+file: /ol-ocw-studio-app/courses/sts-035-the-history-of-computing-spring-2004/8b9b9e4325163ced52bd0badab608e08_week8.pdf
 file_size: 8449
 file_type: application/pdf
 learning_resource_types:
