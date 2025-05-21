@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reading Response, Week 5, by Patrick Griffin
-file: /ol-ocw-studio-app/courses/sts-035-the-history-of-computing-spring-2004/3920946e939c56af6c4d45beb0ba8cce_5patrick.pdf
+file: /courses/sts-035-the-history-of-computing-spring-2004/3920946e939c56af6c4d45beb0ba8cce_5patrick.pdf
 file_size: 127137
 file_type: application/pdf
 learning_resource_types:
