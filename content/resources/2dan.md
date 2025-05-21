@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reading Response, Week 2
-file: /ol-ocw-studio-app/courses/sts-035-the-history-of-computing-spring-2004/eac0013fb3c959593e7c48f6000fae57_2dan.pdf
+file: /courses/sts-035-the-history-of-computing-spring-2004/eac0013fb3c959593e7c48f6000fae57_2dan.pdf
 file_size: 59437
 file_type: application/pdf
 learning_resource_types:

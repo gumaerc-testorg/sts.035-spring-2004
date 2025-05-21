@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Collaboratory: The New Approach to Scientific Research.'
-file: /ol-ocw-studio-app/courses/sts-035-the-history-of-computing-spring-2004/ccc8bc05842faa12c53e48154708d7c4_11antoinne.pdf
+file: /courses/sts-035-the-history-of-computing-spring-2004/ccc8bc05842faa12c53e48154708d7c4_11antoinne.pdf
 file_size: 17365
 file_type: application/pdf
 learning_resource_types:
