@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/sts-035-the-history-of-computing-spring-2004/397e97a443c3491fb6f3dbcb76cea2b5_sts-035s04-th.jpg
+file: /ol-ocw-studio-app/courses/sts-035-the-history-of-computing-spring-2004/397e97a443c3491fb6f3dbcb76cea2b5_sts-035s04-th.jpg
 file_size: 10260
 file_type: image/jpeg
 image_metadata:
