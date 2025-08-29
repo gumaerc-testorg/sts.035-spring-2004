@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Week 4 Reading Response, by Katherine A. Franco
-file: /courses/sts-035-the-history-of-computing-spring-2004/a064678b611fac691c525b8711a8c988_4kathy.pdf
+file: /ol-ocw-studio-app/courses/sts-035-the-history-of-computing-spring-2004/a064678b611fac691c525b8711a8c988_4kathy.pdf
 file_size: 43362
 file_type: application/pdf
 learning_resource_types:
