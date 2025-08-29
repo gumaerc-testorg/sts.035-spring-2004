@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Knowledge versus Knowledge Representation
-file: /courses/sts-035-the-history-of-computing-spring-2004/0aa31dfe0dc93c41d447975599f13951_10dan.pdf
+file: /ol-ocw-studio-app/courses/sts-035-the-history-of-computing-spring-2004/0aa31dfe0dc93c41d447975599f13951_10dan.pdf
 file_size: 52066
 file_type: application/pdf
 learning_resource_types:
